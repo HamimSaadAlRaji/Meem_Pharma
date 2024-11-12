@@ -1,0 +1,10 @@
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\bin\Debug\Meem_Pharma.exe.config
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\bin\Debug\Meem_Pharma.exe
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\bin\Debug\Meem_Pharma.pdb
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.csproj.AssemblyReference.cache
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.Properties.Resources.resources
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.csproj.GenerateResource.cache
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.csproj.CoreCompileInputs.cache
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.exe
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.pdb
+C:\Users\alamd\OneDrive\Desktop\Dokan\Meem_Pharma\Meem_Pharma\obj\Debug\Meem_Pharma.Checkout.resources
